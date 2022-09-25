@@ -2,9 +2,6 @@
 
 ![Desktop](/Images/Desktop.png)
 
-![macOS-Monterey](https://img.shields.io/badge/macOS-Monterey_v12.6-blue "https://www.apple.com/macos/monterey")
-![OpenCore084](https://img.shields.io/badge/OpenCore-0.8.4-9cf "https://github.com/acidanthera/OpenCorePkg/releases")
-
 ## Table of Contents
 
 - [Screenshots](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#screenshots)
