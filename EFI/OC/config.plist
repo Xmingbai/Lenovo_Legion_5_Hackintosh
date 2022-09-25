@@ -1649,7 +1649,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF046700CD0000AD</string>
+			<string>F5K0193034NK3F7AD</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1661,11 +1661,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,4</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFDPKY6L40Y</string>
+			<string>44FB42C245D7</string>
 			<key>SystemUUID</key>
-			<string>2266E403-F669-42F3-AAB7-B67D46915B4D</string>
+			<string>572CBEE0-DDEC-4C66-9D6A-562ACCBDA2E1</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
