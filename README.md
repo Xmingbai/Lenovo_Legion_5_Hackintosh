@@ -2,12 +2,8 @@
 
 ![Desktop](/Images/Desktop.png)
 
-<p align="center">
-<a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey_v12.6-blue" width="215"/> </a>
-<a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.8.4-9cf" width="155"/> </a>
-</p>
+![macOS-Monterey](https://img.shields.io/badge/macOS-Monterey_v12.6-blue "https://www.apple.com/macos/monterey")
+![OpenCore084](https://img.shields.io/badge/OpenCore-0.8.4-9cf "https://github.com/acidanthera/OpenCorePkg/releases")
 
 ## Table of Contents
 
