@@ -1,8 +1,6 @@
-<h1 align="center"> macOS on Lenovo Legion 5 </h1>
+# macOS on Lenovo Legion 5
 
-<p align="center">
-  <img src="https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh/blob/main/Images/Desktop.png" alt="Desktop">
-</p>
+![Desktop](/Images/Desktop.png)
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
