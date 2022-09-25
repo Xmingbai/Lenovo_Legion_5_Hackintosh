@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - [Screenshots](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#screenshots)
-- [Specifications](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#original-hardware)
+- [Specifications](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#specifications)
 - [macOS Compatibility](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#macos-update-history)
 - [What's working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-working)
 - [What's not working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-not-working)
