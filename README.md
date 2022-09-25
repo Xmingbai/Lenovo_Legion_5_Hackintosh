@@ -11,21 +11,22 @@
   <img src="https://img.shields.io/badge/OpenCore-0.8.4-9cf" width="155"/> </a>
 </p>
 
-## Contents
+## Table of Contents
 
-- [Screenshots](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#screenshots-)
-- [Original Hardware](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#original-hardware--)
-- [macOS Update History](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#macos-update-history)
-- [What's working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-working--)
-- [What's not working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-not-working--)
-- [What's you have to do](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-you-have-to-do--)
+- [Screenshots](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#screenshots)
+- [Specifications](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#original-hardware)
+- [macOS Compatibility](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#macos-update-history)
+- [What's working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-working)
+- [What's not working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-not-working)
+- [Kexts used](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#Kexts-used)
+- [SSDTs used](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#SSDTs-used)
 - [Credits](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#credits)
 
-## Screenshots 📷
+## Screenshots
 
 Coming soon.
 
-## Original Hardware  💻
+## Specifications
 
 Type | Spec | Status
 :---------|:---------|:----------
@@ -41,7 +42,7 @@ Audio       | Realtek ALC287 | ✅
 
 - ✅ macOS Monterey 12.6
 
-## What's working  💻
+## What's working
 
 Type | Status
 :---------|:----------
@@ -54,7 +55,7 @@ USB periphials | ✅
 Battery | ✅
 Shutdown / Reboot |✅  
 
-## What's not working  💻
+## What's not working
 
 Type | Info | Status
 :---------|:---------|:----------
@@ -62,7 +63,7 @@ USB storage | The XHCI controller is unsupported, so we have to use GenericUSBXH
 MediaTek Wi-Fi | MediaTek Wi-Fi doesn't work on macOS, note that Intel Wi-Fi will work. | ❌
 iServices | Not set-up properly, will work soon | ❌
 
-## Kexts Used
+## Kexts used
 
 Kext | Info
 :---------|:---------
