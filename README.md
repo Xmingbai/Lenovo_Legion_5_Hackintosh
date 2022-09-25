@@ -73,6 +73,7 @@ Kext | Info
 [AppleMCEReporterDisabler](https://files.amd-osx.com/AppleMCEReporterDisabler.kext.zip) | Disables AppleIntelMCEReporter which causes panics on AMD CPUs.
 [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM) | Patches macOS Monterey+'s Bluetooth stack to allow non-Apple Bluetooth cards.
 [ECEnabler](https://github.com/1Revenger1/ECEnabler) | Fixes EC issues.
+[GenericUSBXHCI](https://github.com/RehabMan/OS-X-Generic-USB3) | Generic XHCI driver
 [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Uploads Intel Wireless Bluetooth Firmware to provide native Bluetooth in macOS. Disable for MediaTek Wi-Fi.
 [IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Fixes some Intel Bluetooth bugs. Disable for MediaTek Wi-Fi.
 [Lilu](https://github.com/acidanthera/Lilu) | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
