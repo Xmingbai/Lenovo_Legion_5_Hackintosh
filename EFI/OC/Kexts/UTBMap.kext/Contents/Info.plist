@@ -36,70 +36,88 @@
 			<string>IOPCIDevice</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>2400</integer>
+				<key>kUSBSleepPowerSupply</key>
+				<integer>2400</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>3600</integer>
+				<key>kUSBWakePowerSupply</key>
+				<integer>3600</integer>
 				<key>port-count</key>
-				<data>
-				BgAAAA==
-				</data>
+				<data>BgAAAA==</data>
 				<key>ports</key>
 				<dict>
-					<key>HS01</key>
+					<key>HSP1</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
+						<key>name</key>
+						<string>HSP1</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
+						<key>comment</key>
+						<string>Rear - Type-C 2.0</string>
 					</dict>
-					<key>HS02</key>
+					<key>HSP2</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
+						<key>name</key>
+						<string>HSP2</string>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
+						<key>comment</key>
+						<string>Internal - HUB 2.0</string>
 					</dict>
-					<key>HS03</key>
+					<key>HSP3</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
+						<key>name</key>
+						<string>HSP3</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
+						<key>comment</key>
+						<string>Internal - Camera 2.0</string>
 					</dict>
-					<key>HS04</key>
+					<key>HSP4</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
+						<key>name</key>
+						<string>HSP4</string>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
+						<key>comment</key>
+						<string>Internal - ITE 2.0</string>
 					</dict>
-					<key>SS01</key>
+					<key>SSP5</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
+						<key>name</key>
+						<string>SSP5</string>
 						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
+						<data>BQAAAA==</data>
+						<key>comment</key>
+						<string>Rear - Type-C 3.0</string>
 					</dict>
-					<key>SS02</key>
+					<key>SSP6</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
+						<key>name</key>
+						<string>SSP6</string>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
+						<key>comment</key>
+						<string>Internal - HUB 3.0</string>
 					</dict>
 				</dict>
 			</dict>
 		</dict>
-		<key>XHC1</key>
+		<key>XHC1 (Rename to XHC)</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.dhinakg.USBToolBox.kext</string>
@@ -108,70 +126,77 @@
 			<key>IOMatchCategory</key>
 			<string>USBToolBox</string>
 			<key>IONameMatch</key>
-			<string>XHC1</string>
+			<string>XHC</string>
 			<key>IOProviderClass</key>
 			<string>IOPCIDevice</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>2400</integer>
+				<key>kUSBSleepPowerSupply</key>
+				<integer>2400</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>3600</integer>
+				<key>kUSBWakePowerSupply</key>
+				<integer>3600</integer>
 				<key>port-count</key>
-				<data>
-				BgAAAA==
-				</data>
+				<data>BgAAAA==</data>
 				<key>ports</key>
 				<dict>
-					<key>HS01</key>
+					<key>HSP1</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
+						<key>name</key>
+						<string>HSP1</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
+						<key>comment</key>
+						<string>Left - Type-C 2.0</string>
 					</dict>
-					<key>HS02</key>
+					<key>HSP2</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
+						<key>name</key>
+						<string>HSP2</string>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
+						<key>comment</key>
+						<string>Right - Type-A 2.0</string>
 					</dict>
-					<key>HS03</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>255</integer>
-						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
-					</dict>
-					<key>HS04</key>
+					<key>HSP4</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
+						<key>name</key>
+						<string>HSP4</string>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
+						<key>comment</key>
+						<string>Internal - BlueTooth 2.0</string>
 					</dict>
-					<key>SS01</key>
+					<key>SSP5</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
+						<key>name</key>
+						<string>SSP5</string>
 						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
+						<data>BQAAAA==</data>
+						<key>comment</key>
+						<string>Left - Type-C 3.0</string>
 					</dict>
-					<key>SS02</key>
+					<key>SSP6</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
+						<key>name</key>
+						<string>SSP6</string>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
+						<key>comment</key>
+						<string>Right - Type-A 3.0</string>
 					</dict>
 				</dict>
 			</dict>
