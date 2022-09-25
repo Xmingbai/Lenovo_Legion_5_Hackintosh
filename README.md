@@ -95,12 +95,12 @@ Kext | Info
   
 SSDT | Info
 :---------|:---------
-[SSDT-CPUR.aml](/Files/SSDT-CPUR.dsl) | Fixes CPU definitions.
-[SSDT-EC.aml](/Files/SSDT-EC.dsl) | Adds a fake Embedded Controller device).
-[SSDT-HPET.aml](/Files/SSDT-HPET.dsl) | Fixes IRQ conflicts.
-[SSDT-SBUS-MCHC.aml](/Files/SSDT-SBUS-MCHC.dsl) | Fixes AppleSMBus.
-[SSDT-USBX.aml](/Files/SSDT-USBX.dsl) | Enables USB Power Management.
-[SSDT-XOSI.aml](/Files/SSDT-XOSI.dsl) | Spoof macOS to Windows for some ACPI features.
+[SSDT-CPUR](/Extras/Decompiled%20ACPI%20Files/SSDT-CPUR.dsl) | Fixes CPU definitions.
+[SSDT-EC](/Extras/Decompiled%20ACPI%20Files/SSDT-EC.dsl) | Adds a fake Embedded Controller device).
+[SSDT-HPET](/Extras/Decompiled%20ACPI%20Files/SSDT-HPET.dsl) | Fixes IRQ conflicts.
+[SSDT-SBUS-MCHC](/Extras/Decompiled%20ACPI%20Files/SSDT-SBUS-MCHC.dsl) | Fixes AppleSMBus.
+[SSDT-USBX](/Extras/Decompiled%20ACPI%20Files/SSDT-USBX.dsl) | Enables USB Power Management.
+[SSDT-XOSI](/Extras/Decompiled%20ACPI%20Files/SSDT-XOSI.dsl) | Spoof macOS to Windows for some ACPI features.
 
 ## Credits
 
