@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on Lenovo Legion 5 </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Desktop.png" alt="Desktop">
+  <img src="https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh/blob/main/Images/Desktop.png" alt="Desktop">
 </p>
 
 <p align="center">
@@ -13,14 +13,13 @@
 
 ## Contents
 
-- [Screenshots](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#screenshots-)
-- [Original Hardware](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#original-hardware--)
-- [macOS Update History](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-update-history)
-- [What's working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-working--)
-- [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
-- [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
-- [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
-- [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
+- [Screenshots](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#screenshots-)
+- [Original Hardware](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#original-hardware--)
+- [macOS Update History](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#macos-update-history)
+- [What's working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-working--)
+- [What's not working](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-not-working--)
+- [What's you have to do](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#whats-you-have-to-do--)
+- [Credits](https://github.com/extremegrief1/Lenovo_Legion_5_Hackintosh#credits)
 
 ## Screenshots 📷
 
@@ -106,4 +105,5 @@ SSDT | Info
 - [Dortania](https://dortania.github.io) for their awesome guides.
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
+- [yusufklncc](https://github.com/yusufklncc) for README template.
 - And anyone else that helped to develop and improve hackintoshing.
